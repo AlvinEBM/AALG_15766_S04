@@ -7,5 +7,5 @@ def buslineal(lis,vusca):
 
 ops=0
 a =[1,3,6,9,4]
-print(buslineal(a,6))
+print(buslineal(a,10))
 print(buslineal(a,8))
